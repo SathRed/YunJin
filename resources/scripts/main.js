@@ -1,4 +1,4 @@
-import {baseStats, cliffbreakersBanner} from "./modules/yunJinData";
+import {baseStats, cliffbreakersBanner} from "./modules/yunJinData.js";
 
 const yunJinLevelForm = document.getElementById("Yun-Jin-Level");
 
